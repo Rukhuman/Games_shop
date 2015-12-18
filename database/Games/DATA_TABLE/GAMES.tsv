@@ -1,0 +1,13 @@
+"GAMES_ID"	"GAMENAME"	"TYPE"	"PRICE"	"GCOMPANY"	"GCOM_ID"
+1	"Tom Clancy's Rainbow Six Siege"	"FPS,Action"	500	"Ubisoft Montreal"	101
+2	"Fall out 4"	"Action,RPG"	500	"Bethesda Game Studios"	102
+3	"Call of duty black ops 3"	"FPS,Action"	1000	"Treyarch"	103
+4	"Justcause 3"	"Action,Adventure"	1200	"Avalanche Studios"	104
+5	"Football Manager 2016"	"Sport,Simulation"	399	"SEGA"	105
+6	"NBA 2K16"	"Sport,Simulation"	699	"Visual Concept"	106
+7	"FIFA 16"	"Sport,Simulation"	999	"Erectronic Arts"	107
+8	"DiRT Rally"	"Sport,Simulation"	569	"Codemasters Racing Stdudios"	108
+9	"Grand Theft Auto V"	"Action,RPG"	777	"Rockstar Games"	109
+10	"The Sims 4"	"Simulation"	111	"Erectronic Arts"	107
+11	"Assassin's Creed Syndicate"	"Action,Adventure"	222	"Ubisoft Montreal"	101
+12	"The Witcher 3 : Wild Hunt"	"Action,RPG"	499	"CD Projekt RED"	110
